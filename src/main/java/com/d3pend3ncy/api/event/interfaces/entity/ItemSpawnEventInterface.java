@@ -1,0 +1,8 @@
+package com.d3pend3ncy.api.event.interfaces.entity;
+
+import com.d3pend3ncy.api.event.core.types.Listener;
+import org.bukkit.event.entity.ItemSpawnEvent;
+
+public interface ItemSpawnEventInterface extends Listener {
+    void onItemSpawnEvent(ItemSpawnEvent event);
+}

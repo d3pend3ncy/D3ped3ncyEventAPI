@@ -1,0 +1,6 @@
+name: EventAPI
+version: '0.0.1'
+main: com.d3pend3ncy.api.Main
+api-version: '1.21'
+authors: [ d3ped3ncy ]
+description: event api stuff
